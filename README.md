@@ -2,7 +2,7 @@
 
 # Dragonwilds Save Editor (Xbox)
 
-A browser-only character save editor for **RuneScape: Dragonwilds**, built for Xbox saves. Open `index.html` in any modern browser — or visit the live site once deployed.
+A browser-only character save editor for **RuneScape: Dragonwilds**, built for Xbox saves. Open `index.html` in any modern browser.
 
 **Trust:** everything runs locally in your browser. Your save file is never uploaded anywhere. There are no accounts, no servers, no scripts to run.
 
